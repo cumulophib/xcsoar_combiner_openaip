@@ -2,9 +2,9 @@
 
 In a nutshell: run this once a year and you'll be up to date with all COMBINED European airspaces from OpenAIP, all waypoints, VFR reporting points, and obstacles.
 
-[OpenSoar](https://github.com/OpenSoarGroup/OpenSoar) and [XCSoar](https://www.xcsoar.org/) are tactical glide computers for Android/Linux.
+[OpenSoar](https://github.com/OpenSoarGroup/OpenSoar) and [XCSoar](https://www.xcsoar.org/) are tactical glide computers for Android/Linux ( and also ios (xcsoar)).
 
-You can download OpenSoar via this link: [https://www.opensoar.de/releases/](https://www.opensoar.de/releases/) - download the newest release version (7.43 or higher). This is preferred over XCSoar (as of March 2026) as it is actively maintained and has some nice features like SkySight integration. You are free to use the classic XCSoar, but you might encounter some difficulties while installing this content.
+You can download OpenSoar via this link: [https://www.opensoar.de/releases/](https://www.opensoar.de/releases/) - download the newest release version (7.43 or higher). This is preferred over XCSoar (as of March 2026) as it is actively maintained and has some nice features like SkySight integration. You are free to use the classic XCSoar, but you might encounter some difficulties while installing this content. Especially when it comes to access the data folder.
 
 This repository provides a fully automated workflow for glider pilots to manage flight data. It bridges the gap between official OpenAIP data (airspaces, obstacles, waypoints) and your own custom flight computer configurations. Everything is compiled into a single, organized directory (`final-folder`) ready to be loaded directly onto your flight computer.
 

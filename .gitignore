@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.DS_Store
+
+# Generated/downloaded data - run the scripts to regenerate
+nav-airspaces/openaip_downloads/
+nav-airspaces/output/

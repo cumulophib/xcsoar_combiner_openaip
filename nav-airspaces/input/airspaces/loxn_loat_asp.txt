@@ -1,0 +1,23 @@
+* ==============================================================================
+* Bei dieser Luftraumdatei f¸r XCSoar handelt es sich um den LOAT Luftraum der AustroControl, 
+* welche von mir um weitere segelflugrelevante Luftr‰ume erweitert wurde.  Stand 31.08.2022
+* 
+* ==============================================================================
+
+AC W
+AN HEL SECTOR LOAT
+AH 1900ft AMSL
+AL SFC
+DP 47:50:50 N 016:10:55 E
+DP 47:50:29 N 016:12:19 E
+DP 47:50:26 N 016:12:24 E
+DP 47:49:49 N 016:12:46 E
+DP 47:49:46 N 016:12:45 E
+DP 47:49:43 N 016:12:42 E
+DP 47:49:40 N 016:12:36 E
+DP 47:49:39 N 016:12:29 E
+DP 47:49:45 N 016:11:02 E
+DP 47:50:02 N 016:10:57 E
+DP 47:50:23 N 016:10:54 E
+DP 47:50:42 N 016:10:53 E
+DP 47:50:50 N 016:10:55 E

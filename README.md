@@ -94,5 +94,6 @@ Follow Philip's gliding adventures on YouTube:
 **[www.youtube.com/@cumulophib](https://www.youtube.com/@cumulophib)**
 
 ---
+Bug noted 20260323 : When no map is installed, Italy Waypoint are missing
 
 **IMPORTANT DISCLAIMER:** This software only automates the downloading and merging of data. We do not guarantee the accuracy or correctness of any information, especially regarding airspaces and navigation data. Additionally, it is possible that downloads may become corrupted, potentially leading to missing airspace information. While we have never encountered such a situation, it remains a possibility. You, as the pilot in command, are solely responsible for cross-checking and verifying your flight data before takeoff!
